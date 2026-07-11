@@ -19,11 +19,11 @@ vertically, or diagonally wins the round.
 
 **Game In Progress**
 
-![Game In Progress](Images/Interface.png)
+![Game In Progress](Images/Interface.PNG)
 
 **Player 1 Wins**
 
-![Player 1 Wins](Images/GameOver.png)
+![Player 1 Wins](Images/GameOver.PNG)
 
 ## Screens
 
